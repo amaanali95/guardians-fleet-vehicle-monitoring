@@ -51,3 +51,11 @@ To develop a cost-effective smart mobility solution that provides multiple contr
 ## 📅 Project Duration
 
 August 2025 – November 2025
+## 📂 Project Documentation
+
+- 📄 [View Project Report](./Voice-Controlled-Smart-Wheelchair-Report.pdf)
+
+Author
+
+Amaan Ali
+Aspiring Cloud & Network Engineer

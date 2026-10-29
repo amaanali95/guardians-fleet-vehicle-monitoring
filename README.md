@@ -53,7 +53,7 @@ To develop a cost-effective smart mobility solution that provides multiple contr
 August 2025 – November 2025
 ## 📂 Project Documentation
 
-- 📄 [View Project Report](./Voice-Controlled-Smart-Wheelchair-Report.pdf)
+- 📄 [View Project Report](Voice control whellchair report.pdf)
 
 Author
 
